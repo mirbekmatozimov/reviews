@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/mirbekmatozimov/reviews/static/css/main.2f876791.chunk.css",
-    "main.js": "/mirbekmatozimov/reviews/static/js/main.8d87273f.chunk.js",
-    "main.js.map": "/mirbekmatozimov/reviews/static/js/main.8d87273f.chunk.js.map",
-    "runtime-main.js": "/mirbekmatozimov/reviews/static/js/runtime-main.268fdeb8.js",
-    "runtime-main.js.map": "/mirbekmatozimov/reviews/static/js/runtime-main.268fdeb8.js.map",
-    "static/js/2.bdbc782b.chunk.js": "/mirbekmatozimov/reviews/static/js/2.bdbc782b.chunk.js",
-    "static/js/2.bdbc782b.chunk.js.map": "/mirbekmatozimov/reviews/static/js/2.bdbc782b.chunk.js.map",
-    "index.html": "/mirbekmatozimov/reviews/index.html",
-    "precache-manifest.33f3150b8d60e35d66a57b40ce5f98d5.js": "/mirbekmatozimov/reviews/precache-manifest.33f3150b8d60e35d66a57b40ce5f98d5.js",
-    "service-worker.js": "/mirbekmatozimov/reviews/service-worker.js",
-    "static/css/main.2f876791.chunk.css.map": "/mirbekmatozimov/reviews/static/css/main.2f876791.chunk.css.map",
-    "static/js/2.bdbc782b.chunk.js.LICENSE.txt": "/mirbekmatozimov/reviews/static/js/2.bdbc782b.chunk.js.LICENSE.txt"
+    "main.css": "/reviews/static/css/main.2f876791.chunk.css",
+    "main.js": "/reviews/static/js/main.8d87273f.chunk.js",
+    "main.js.map": "/reviews/static/js/main.8d87273f.chunk.js.map",
+    "runtime-main.js": "/reviews/static/js/runtime-main.51a67177.js",
+    "runtime-main.js.map": "/reviews/static/js/runtime-main.51a67177.js.map",
+    "static/js/2.bdbc782b.chunk.js": "/reviews/static/js/2.bdbc782b.chunk.js",
+    "static/js/2.bdbc782b.chunk.js.map": "/reviews/static/js/2.bdbc782b.chunk.js.map",
+    "index.html": "/reviews/index.html",
+    "precache-manifest.b9de4760dbc2aac95183256c43ff3097.js": "/reviews/precache-manifest.b9de4760dbc2aac95183256c43ff3097.js",
+    "service-worker.js": "/reviews/service-worker.js",
+    "static/css/main.2f876791.chunk.css.map": "/reviews/static/css/main.2f876791.chunk.css.map",
+    "static/js/2.bdbc782b.chunk.js.LICENSE.txt": "/reviews/static/js/2.bdbc782b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.268fdeb8.js",
+    "static/js/runtime-main.51a67177.js",
     "static/js/2.bdbc782b.chunk.js",
     "static/css/main.2f876791.chunk.css",
     "static/js/main.8d87273f.chunk.js"
