@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mirbekmatozimov/reviews.git/static/css/main.2f876791.chunk.css",
+    "main.js": "/mirbekmatozimov/reviews.git/static/js/main.8d87273f.chunk.js",
+    "main.js.map": "/mirbekmatozimov/reviews.git/static/js/main.8d87273f.chunk.js.map",
+    "runtime-main.js": "/mirbekmatozimov/reviews.git/static/js/runtime-main.6c3f49ae.js",
+    "runtime-main.js.map": "/mirbekmatozimov/reviews.git/static/js/runtime-main.6c3f49ae.js.map",
+    "static/js/2.bdbc782b.chunk.js": "/mirbekmatozimov/reviews.git/static/js/2.bdbc782b.chunk.js",
+    "static/js/2.bdbc782b.chunk.js.map": "/mirbekmatozimov/reviews.git/static/js/2.bdbc782b.chunk.js.map",
+    "index.html": "/mirbekmatozimov/reviews.git/index.html",
+    "precache-manifest.3423ac02eb97ab41db057039601f9fe5.js": "/mirbekmatozimov/reviews.git/precache-manifest.3423ac02eb97ab41db057039601f9fe5.js",
+    "service-worker.js": "/mirbekmatozimov/reviews.git/service-worker.js",
+    "static/css/main.2f876791.chunk.css.map": "/mirbekmatozimov/reviews.git/static/css/main.2f876791.chunk.css.map",
+    "static/js/2.bdbc782b.chunk.js.LICENSE.txt": "/mirbekmatozimov/reviews.git/static/js/2.bdbc782b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c3f49ae.js",
+    "static/js/2.bdbc782b.chunk.js",
+    "static/css/main.2f876791.chunk.css",
+    "static/js/main.8d87273f.chunk.js"
+  ]
+}
